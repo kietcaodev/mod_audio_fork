@@ -1,1 +1,0 @@
-/usr/bin/c++ -fPIC -O3 -DNDEBUG -shared -Wl,-soname,mod_audio_fork.so -o mod_audio_fork.so CMakeFiles/mod_audio_fork.dir/mod_audio_fork.c.o CMakeFiles/mod_audio_fork.dir/audio_pipe.cpp.o CMakeFiles/mod_audio_fork.dir/parser.cpp.o CMakeFiles/mod_audio_fork.dir/lws_glue.cpp.o  -lpthread -lwebsockets -lssl -lz /usr/lib/libfreeswitch.so 
