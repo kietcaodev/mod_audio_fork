@@ -1,0 +1,7 @@
+/usr/src/freeswitch/src/mod/applications/mod_audio_fork/build/CMakeFiles/mod_audio_fork.dir
+/usr/src/freeswitch/src/mod/applications/mod_audio_fork/build/CMakeFiles/edit_cache.dir
+/usr/src/freeswitch/src/mod/applications/mod_audio_fork/build/CMakeFiles/rebuild_cache.dir
+/usr/src/freeswitch/src/mod/applications/mod_audio_fork/build/CMakeFiles/list_install_components.dir
+/usr/src/freeswitch/src/mod/applications/mod_audio_fork/build/CMakeFiles/install.dir
+/usr/src/freeswitch/src/mod/applications/mod_audio_fork/build/CMakeFiles/install/local.dir
+/usr/src/freeswitch/src/mod/applications/mod_audio_fork/build/CMakeFiles/install/strip.dir
